@@ -15,3 +15,4 @@ Python libraries(nltk, bs4 and re) is applied to clean the text content in tweet
 
 ![](https://github.com/JennyYu2017/NLP-and-Visualization-Sentiment-Analysis-with-300MM-Russsian-Troll-Tweets/blob/master/Plots/Top%2050%20Most%20Frequent%20Words%20in%20Tweets%20Mentioning%20Hillary.png)
 
+![](https://github.com/JennyYu2017/NLP-and-Visualization-Sentiment-Analysis-with-300MM-Russsian-Troll-Tweets/blob/master/Plots/Top%2050%20Most%20Frequent%20Words%20in%20Tweets%20Mentioning%20Trump.png)
